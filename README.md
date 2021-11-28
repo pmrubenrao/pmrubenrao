@@ -1,6 +1,6 @@
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My Name is Ruben and I am a DevOps and Backend developer specialized in the Telecom and Banking domain based application.
+I am a DevOps and Backend developer specialized in the Telecom and Banking domain based application.
 
 ## Some things about Me!
 - 🔭 Working on Vue JS Framework & AWS lambda functions
