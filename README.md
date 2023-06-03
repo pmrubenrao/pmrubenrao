@@ -7,5 +7,5 @@ I am a Full-Stack developer specialized in the Telecom and Banking domain based 
 - 🌱 I’m currently learning GraphQL and python3
 - 💬 Ask me about anything. Always happy to help
 - 💾 Stackoverflow: https://stackoverflow.com/users/5692366/ruben
-- 💻 Personal Blog: https://serverless.world/
-- 💻 Portfolio page: https://portfolio.serverless.world/
+- 💻 Personal Blog: https://rubenrao.com/
+- 💻 Portfolio page: https://portfolio.rubenrao.com/
